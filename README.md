@@ -1,4 +1,4 @@
-<h1 style="text-align:center">_Racecarts++_</h1>
+<h1 align="center"><i>Racecarts++</i></h1>
 
 Racecarts++ is an updated version of [Firebug's _Faster Minecarts Datapack_](https://www.planetminecraft.com/data-pack/faster-minecarts-datapack/) from 2019. I've updated it so that it works on any block, and can handle very tight corners as seen in many designs for automated rail stations.
 
