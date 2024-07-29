@@ -16,7 +16,7 @@ That's literally it!
 ## Installing
 Click the green _Code_ icon at the top of the page, then _Download ZIP_. Extract the zipped folder and place the `racecartsplusplus-main/` folder in your `world/datapacks/` folder.
 Then in minecart, just run:
-```mcfunction
+```
 /datapack enable "file/racecartsplusplus-main"
 ```
 
