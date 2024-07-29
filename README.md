@@ -9,6 +9,7 @@ Carts travel at 28 m/s (↑ from 8 m/s in Vanilla), which is faster than Elytra 
 ## Features
 * Faster Minecarts
 * Vanilla-compatible corner handling
+* Minecarts act normally on steep inclines, so you can't be stingy with infrequent Powered Rail usage!
 * Lightweight
 
 That's literally it!
