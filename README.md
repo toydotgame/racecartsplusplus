@@ -6,7 +6,10 @@ Racecarts++ is **robust**: it's compatible with piston bolts, it only affects pl
 
 Carts travel at 28 m/s (↑ from 8 m/s in Vanilla), which is faster than Elytra rocket spam, but slower than Blue Ice. This is balanced in that it is more powerful than the Elytra (which many think is too far overpowered), but slower than Packed/Blue Ice boating—which requires a learning curve to use and lots of materials. This **balances out Minecarts** again to be a viable form of transportation for routes you frequently travel, where you can invest in a Minecart line between two points that will outpace using your Elytra all of the time.
 
-<div align="center"><img src="https://github.com/user-attachments/assets/bc74eb84-2fe5-48c6-b55d-a60424c02922"></div>
+<div align="center">
+  <h3>Transport Method Speeds (m/s)</h3>
+  <img src="https://github.com/user-attachments/assets/bc74eb84-2fe5-48c6-b55d-a60424c02922">
+</div>
 
 ## Features
 * Faster Minecarts
